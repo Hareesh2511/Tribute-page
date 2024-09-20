@@ -1,0 +1,140 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	
+	
+}
+.Tribute{
+	color:blue;
+	text-align:center;
+	font-family:bold italic;
+	font-size:20px;
+}
+.container{
+	background-color:rgb(240,240,245);
+	min-height:230vh;
+	border:20px solid black;
+}
+.name{
+	margin-right: 150px;
+	
+}
+img{
+	margin-left: 80px;
+}
+
+.content{
+	max-width:1300px;
+	margin: 0 auto;
+}
+.top_section h1{
+	font-size:45px;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+}
+.top_section h4{
+	font-size:25px;
+	text-align:end;
+	
+}
+
+.top_section{
+	margin-top:100px;
+	display:flex;
+	justify-content:space-between;
+	align-items:flex-end;
+}
+
+.img_container,
+img{
+	width:250px;
+	height:250px;
+	border-radius:550%;
+	overflow:hidden;
+}
+.about_section{
+	margin-top:50px;
+}
+.about_section h3{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:red;
+}
+.about_section p{
+	font-size:20px;
+	line-height:25px;
+	letter-spacing:1.0px;
+}
+.personal_section{
+	margin-top:20px;
+}
+.personal_section h3{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:red;
+}
+.personal_section p{
+	font-size:20px;
+	line-height:25px;
+	letter-spacing:1.0px;
+}
+.education_section{
+	margin-top:20px;
+}
+.education_section h3{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:red;
+}
+.education_section li{
+	font-size:20px;
+	line-height:30px;
+	letter-spacing:1.0px;
+}
+.surgical_section{
+	margin-top:20px;
+}
+.surgical_section h3{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:red;
+}
+.surgical_section li{
+	font-size:20px;
+	line-height:30px;
+	letter-spacing:1.0px;
+}
+.surgical_section p{
+	font-size:20px;
+	line-height:25px;
+	letter-spacing:1.0px;
+}
+.death_section{
+	margin-top:20px;
+}
+.death_section h3{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:red;
+}
+.death_section p{
+	font-size:20px;
+	line-height:25px;
+	letter-spacing:1.0px;
+}
+footer {
+  margin: 50px 0;
+}
+footer p {
+  text-align: end;
+  font-size:20px;
+	line-height:10px;
+	letter-spacing:0.8px;
+}
